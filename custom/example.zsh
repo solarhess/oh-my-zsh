@@ -3,3 +3,5 @@
 #
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
+PATH=$PATH:$HOME/bin
+
